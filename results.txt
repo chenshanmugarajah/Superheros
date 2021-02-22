@@ -1,0 +1,18 @@
+--- Five tallest heroes ---
+Juggernaut (Cain Marko), Height = 205 centimetres
+Apocalypse (En Sabah Nuh), Height = 200 centimetres
+Kingpin (Wilson Fisk), Height = 198 centimetres
+Thor (Jake Olson), Height = 195 centimetres
+Silver Surfer (Norrin Radd), Height = 190 centimetres
+
+--- Five weakest heroes ---
+Elektra (Elektra Natchios), Strength rating = 15
+Mr Fantastic (Reed Richards), Strength rating = 23
+Mysterio (Quentin Beck), Strength rating = 23
+Dr Octopus (Dr Otto Octavius), Strength rating = 23
+Invisible Woman (Susan Richards), Strength rating = 23
+
+----------------------
+
+Total number of unique even words in hero descriptions = 78
+Total number of unique odd words in hero descriptions = 85

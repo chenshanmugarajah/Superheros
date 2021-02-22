@@ -1,0 +1,30 @@
+Apocalypse:200:8:50:16:22:80:En Sabah Nuh:War, Plague and Pestilence; These are his tools.
+Black Panther:180:7:29:7:17:79:T'Challa:Noble champion and vigilant protector.
+Black Widow:168:4:26:4:14:81:Natasha Romanov:Many a man has felt the widow's sting!
+Blade:185:3:29:5:14:85:Unrevealed:May be humanity's last hope against an army of vampires.
+Captain America:186:4:29:6:16:86:Steve Rogers:A man out of time, but an ultimate physical specimen.
+Dr Doom:186:8:48:4:13:70:Victor Von Doom:A brilliant but arrogant scientist who aspires world domination.
+Dr Octopus:173:7:23:2:12:65:Dr Otto Octavius:Armed with a bevy of bone-crushing steel tentacles.
+Dr Strange:184:5:35:4:14:85:Dr Stephen Strange:Master of the mystic arts and Earth's sorcerer supreme.
+Elektra:173:4:15:6:16:80:Elektra Natchios:Assassin. Lover. Enigma.
+Ghost Rider:181:3:37:8:15:66:Johnny Blaze:Bad-boy biker transformed into skeletal fire demon.
+Green Goblin:178:6:35:10:18:55:Norman Osborn II:Spiderman's greatest enemy since the beginning.
+Hawkeye:188:3:26:4:16:80:Clint Barton:Master marksman who left the avengers for life outside the law.
+Iceman:170:3:28:4:12:70:Bobby Drake:Has mutant power to freeze water molecules.
+Invisible Woman:165:3:23:2:12:70:Susan Richards:A member of the legendary fantastic four.
+Iron-man:183:6:48:2:12:85:Tony Stark:A modern-day knight in shining armour.
+Juggernaut:205:3:48:2:10:63:Cain Marko:Stepbrother of X-Men mentor, Charles Xavier.
+Kingpin:198:7:30:4:13:75:Wilson Fisk:Rules the east coast underworld.
+Magneto:185:8:46:2:12:81:Magnus:Genetic terrorist, arguably the most powerful man on Earth.
+Mr Fantastic:183:9:23:2:22:65:Reed Richards:He can stretch, deform, expand or compress himself.
+Mysterio:178:3:23:3:14:70:Quentin Beck:A master magician and hypnotist.
+Nick Fury:183:3:27:4:12:86:Nick Fury:Agent of S.H.I.E.L.D. who likes skydiving while smoking a cigar.
+Professor X:180:7:24:1:12:64:Charles Xavier:The world's most powerful telepath; Founder of the X-Men.
+Silver Surfer:190:4:46:13:18:72:Norrin Radd:The Lone Sentinel of the Spaceways.
+Spider-man:175:7:36:11:21:66:Peter Parker:Has arachnid-like powers and a sixth sense.
+Storm:178:4:27:12:14:69:Ororo Munroe:A member of the X-Men; Can control the weather.
+The Beast:177:5:35:10:20:72:Hank McCoy:Possesses superhuman agility, strength, speed and endurance.
+The Human Torch:175:4:26:5:14:71:Johnny Storm:The hothead of the Fantastic Four.
+The Thing:180:3:47:8:12:85:Ben Grimm:Once a skilled fighter pilot, transformed by cosmic radiation.
+Thor:195:4:49:9:19:85:Jake Olson:The master of storm and lightning, mighty warrior of mythology.
+Venom:188:3:38:10:20:64:Eddie Brock:An alien symbiote.
